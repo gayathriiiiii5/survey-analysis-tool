@@ -14,7 +14,7 @@ A tool for analyzing survey responses and generating insights from collected dat
 - JavaScript
 
 ## GitHub Repository
-[Repository Link]
+https://github.com/gayathriiiiii5/survey-analysis-tool/tree/main
 
 ## Author
 Gayathri
